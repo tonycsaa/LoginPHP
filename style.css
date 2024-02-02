@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(31, 31, 31);
+    font-family: "Bahnschrift", sans-serif;
+}
+
+#formulaire {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 15%;
+    left: 43%;
+    height: 269px;
+    width: 300px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+input {
+    border-radius: 10px;
+    margin : 10px;
+}
